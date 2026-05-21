@@ -47,6 +47,7 @@ npm install
 ## 📂 Project Structure
 
 A quick overview of the directory structure to help you navigate the codebase:
+Best pratice for production level
 
 ```text
 azure/
