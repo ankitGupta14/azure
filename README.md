@@ -1,4 +1,4 @@
-# Azure
+# Azure complete solution
 
 A brief description of what the Azure project does, its primary purpose, and the problem it solves.
 
