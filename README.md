@@ -64,5 +64,6 @@ azure/
 │   ├── routes/             # API routes definitions
 │   ├── middleware/         # Custom Express middleware (e.g., auth)
 │   └── server.js           # Express app setup
-├── .env.example            # Example environment variables
+├── .env.example            # Example environment variables !!!
 └── README.md
+
